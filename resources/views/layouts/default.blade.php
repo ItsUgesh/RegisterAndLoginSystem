@@ -30,6 +30,7 @@
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">Education</a></li>
                             <li><a class="dropdown-item" href="#">Interest</a></li>
+                            <li><a class="dropdown-item" href="#">Projects</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
